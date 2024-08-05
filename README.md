@@ -4,7 +4,7 @@
 </p>
 <div>
   <p align="center">
-      <a href="https%3A%2F%2Fhernan-villalba.netlify.app%2F&ia" target="blank"><img align="center"
+      <a href="https://hernan-villalba.netlify.app/" target="blank"><img align="center"
          src="https://img.shields.io/badge/Porfolio-8A2BE2"
          alt="portfolio" height="30"/></a>
     </p>
