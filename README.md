@@ -2,7 +2,13 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=&pause=1000&width=435&lines=Java+Backend+developer" alt="Typing SVG" /></a>
 </p>
-<img alt="just the message" src="https://img.shields.io/badge/Porfolio-8A2BE2?link=https%3A%2F%2Fhernan-villalba.netlify.app%2F&ia">
+<div>
+  <p align="center">
+      <a href="https%3A%2F%2Fhernan-villalba.netlify.app%2F&ia" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Porfolio-8A2BE2"
+         alt="portfolio" height="30"/></a>
+    </p>
+</div>
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; About me </h2> 
 📘 - I like to keep myself learning to strenghten my diversity of skills and apply them in order to accomplish personal and company goals.
 <br>
