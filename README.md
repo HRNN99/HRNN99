@@ -4,7 +4,7 @@
 </p>
 <div>
   <p align="center">
-      <a href="https://hernan-villalba.netlify.app/" target="blank"><img align="center"
+      <a href="https://portfolio.hrnn.cloud/" target="blank"><img align="center"
          src="https://img.shields.io/badge/Porfolio-8A2BE2"
          alt="portfolio" height="30"/></a>
     </p>
@@ -20,9 +20,9 @@
 <P>
 <img src="https://symbols.getvecta.com/stencil_25/40_java.bc46b9254c.svg" width="34px"> 
 <img src="https://newreleases.io/assets/providers/64/maven.5fbf40.png" width="50px"> 
-<img src="https://frontbackend.com/storage/tutorials/thymeleaf/spring-boot-logo.png" width="50px"> 
+<img src="https://brandlogos.net/wp-content/uploads/2026/01/spring_boot_symbol-logo_brandlogos.net_tkqz9-512x512.png" width="50px"> 
 <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-256.png" width="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2023/05/react_logo-freelogovectors.net_.png" width="50px">
 <img src="https://cdn.iconscout.com/icon/free/png-512/postman-3521648-2945092.png?f=avif&w=256" width="50px">
 <img src="https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/icons8-git.svg" width ="50px">
 </P>
